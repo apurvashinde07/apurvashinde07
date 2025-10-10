@@ -1,20 +1,30 @@
 # Hi there 👋, I'm Apurva Santosh Shinde
 
-I'm a developer from India who loves coding and building projects.
+
+💻 **Passionate Coder | Web Developer | Problem Solver**  
+
+I’m a tech enthusiast who loves turning ideas into reality through code.  
+Currently exploring **OOP concepts** and building **web projects** using **HTML, CSS, and JavaScript**.  
+I enjoy learning new technologies and improving my skills in **C, C++, and Python**.  
+
 
 ---
-
-### 🌱 About Me
-- Learning **C++, Python, and Web Development**
-- Love exploring waterfalls, forts, and caves
+### 🚀 About Me
+- 🌱 Currently learning **Object-Oriented Programming (OOP)**  
+- 🔍 Interested in **Web Development** and **Creative Problem Solving**  
+- 💬 Love exploring new ideas and building cool projects    
 
 ---
 
 ### 🛠️ Skills
-C++, Python, HTML, CSS
+- 💡 Skilled in **C, C++, Python,HTML, CSS, JavaScript**  
 
 ---
 
-### 📫 Connect with Me
-- [LinkedIn](www.linkedin.com/in/apurva-shinde-92685935b)
-  
+### 🌐 Connect With Me
+🌟 *Let’s connect and build something awesome together!*  
+📧 Email: [apurvashinde077@gmail.com]  
+💼 LinkedIn: [www.linkedin.com/in/apurva-shinde-92685935b]  
+🐙 GitHub: [https://github.com/apurvashinde07]  
+
+
