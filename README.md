@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋, I'm Apurva Santosh Shinde
 
-<!--
-**apurvashinde07/apurvashinde07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer from India who loves coding and building projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 About Me
+- Learning **C++, Python, and Web Development**
+- Love exploring waterfalls, forts, and caves
+
+---
+
+### 🛠️ Skills
+C++, Python, HTML, CSS
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn](www.linkedin.com/in/apurva-shinde-92685935b)
+  
